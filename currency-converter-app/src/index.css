@@ -1,0 +1,45 @@
+body {
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+  padding: 24px;
+}
+
+ul {
+  width: 10%;
+}
+
+li {
+  cursor: pointer;
+  margin-bottom: 8px;
+  display: inline-block;
+}
+
+img {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  margin-left: 8px;
+}
+
+li:hover {
+  color: blue;
+}
+
+.navbar-brand {
+  margin-left: 32px;
+}
+
+.main-container {
+  margin-top: 56px;
+}
+
+.conversionBox {
+  padding: 16px 32px 16px 32px;
+}
+
+.selection {
+  text-decoration: underline;
+  margin-bottom: 8px;
+}
+
